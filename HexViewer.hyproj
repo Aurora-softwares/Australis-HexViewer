@@ -1,0 +1,13 @@
+format = 2
+name = "Hex Viewer"
+version = "0.1.0"
+type = "exec"
+output = "system/hex-viewer.exec"
+sources = ["src/Program.hy"]
+project_references = []
+
+[package]
+id = "os.australis.hex-viewer"
+description = "Minimal Australis executable"
+authors = ["Aurora Softwares"]
+license = "MIT"
