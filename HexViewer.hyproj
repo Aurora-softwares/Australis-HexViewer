@@ -7,7 +7,7 @@ sources = ["src/Program.hy"]
 project_references = []
 
 [package]
-id = "os.australis.hex-viewer"
+id = "australis.applications.hex-viewer"
 description = "Minimal Australis executable"
 authors = ["Aurora Softwares"]
 license = "MIT"
